@@ -7,7 +7,7 @@
 ------------ | ------------- | ------------
 [前言](https://github.com/WisdomPlanet/WisdomPlanet-Javascript-Primer/blob/master/preface.md) | [前言](https://github.com/WisdomPlanet/WisdomPlanet-Javascript-Primer/blob/master/preface.md)  | [前言](https://github.com/WisdomPlanet/WisdomPlanet-Javascript-Primer/blob/master/preface.md)
 [开发前的准备](https://github.com/WisdomPlanet/WisdomPlanet-Javascript-Primer/blob/master/prepare.md) | [开发前的准备](https://github.com/WisdomPlanet/WisdomPlanet-Javascript-Primer/blob/master/prepare.md)| [开发所需的工具与注意事项](https://github.com/WisdomPlanet/WisdomPlanet-Javascript-Primer/blob/master/prepare.md)
-第一章 |[你好，智慧星球](https://github.com/WisdomPlanet/WisdomPlanet-Javascript-Primer/blob/master/chapter_1.md) | [让您运行第一个JS程序](https://github.com/WisdomPlanet/WisdomPlanet-Javascript-Primer/blob/master/chapter_1.md)
+[第一章](https://github.com/WisdomPlanet/WisdomPlanet-Javascript-Primer/blob/master/chapter_1.md) |[你好，智慧星球](https://github.com/WisdomPlanet/WisdomPlanet-Javascript-Primer/blob/master/chapter_1.md) | [让您运行第一个JS程序](https://github.com/WisdomPlanet/WisdomPlanet-Javascript-Primer/blob/master/chapter_1.md)
 第二章 | 瓶子的故事 | 说说变量那些事与运算符
 第三章 | 让智慧爆表吧 |循环结构
 第四章 | 少年，前面有坑别踩 | 选择结构
