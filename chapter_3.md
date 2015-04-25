@@ -57,7 +57,7 @@ Javascript 分为算数运算术与赋值运算符，什么叫算术运算符昵
 ****算术运算符****
 
 运算符 | 描述 | 例子 
--- | --| -- 
+------------|------------| ------------
 + | 加  | var x=1,y=1; console.log(x+y);
 -| 减（一元求反） | var x=2,y=1; console.log(x-y);
 \*| 乘 | var x=2,y=1; console.log(x\*y);
@@ -70,7 +70,7 @@ Javascript 分为算数运算术与赋值运算符，什么叫算术运算符昵
 ****赋值运算符****
 
 运算符 | 描述 | 例子 
--- | --| -- 
+------------ | ------------| ------------
 = |将一个主量的值赋给另一变量 | var x,y=9;x=y;console.log(x);
 +=|这是将x=x+y算写为x+=y,经常可以在循环代码中看到  | var x=1,y=9;x+=y;console.log(x);
 -=|这是将x=x-y算写为x-=y,经常可以在循环代码中看到  | var x=4,y=2;x-=y;console.log(x);
@@ -157,11 +157,19 @@ while (条件){程序主体} ;
 例子：
 
 var i = 10;
-while (i < 10){i += 2;console.log(i)} ;
+while (i < 10){
+
+i += 2;console.log(i)
+
+} ;
 
 
 var i = 0;
-while (i < 10){i += 2;console.log(i)};
+while (i < 10){
+
+i += 2;console.log(i)
+
+};
 
 ####for 语句
 
@@ -190,8 +198,11 @@ for (属性 in 对象结构){程序主体} ;
 例子：
 
 var handsome={
+
   id:'1',
+  
   name:'念念之间'
+  
 };
 
 for(var i in handsome){
@@ -265,10 +276,12 @@ for(var i in handsome){
 钱端端点了可编程设置后，按里面的提示输入了代码
 
 for(var iq=0;iq<160;iq++){
+
    console.log("我要顶级智商，让智商爆表吧，我要出去",iq);
+   
 }
 
-输完命令后只见空间一闪，他醒了过来
+输完命令后只见空间一闪，他醒了过来。
 
 
 
